@@ -55,6 +55,9 @@ const CartTable = () => {
                        
                     </tbody>
                 </table>
+                <div className="text-end">
+                    <button className="btn btn-warning py-3 px-4 rounded-0 mt-3 ">PROCESS TO CHECKOUT</button>
+                </div>
 
             </div>
             
